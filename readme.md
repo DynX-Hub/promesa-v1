@@ -5,6 +5,7 @@ Se enlistan algunas caracteristicas de los subsistemas con las que cuenta el veh
 
 # Objetivos
 Objetivo principal: un kilometro de apogeo con +/- 10% de error. Lograr con exito su recuperación y lanzamiento sin daño alguno a cualquiera de los subsistemas y la carga útil involucrada. 
+
 Objetivos secundarios:
 1. Recuperación de datos de vuelo
 2. Comunicación por telemetría

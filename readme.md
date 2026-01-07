@@ -13,10 +13,14 @@ Objetivos secundarios:
 4. Monitoreo en tiempo real por telemetria de componentes estructurales
 5. Monitoreo de variables termodinamicas del sistema de propulsion 
 
-# Geometria 
+# Geometria y balance de peso 
 
-
-## Subtitulo
+# Performance
+# Sistema de propulsion
+# Sistema de avionica
+# Sistema de recuperación
+# Componentes estructurales 
+# Manufactura 
 Texto
 
 1. Enlistado 1

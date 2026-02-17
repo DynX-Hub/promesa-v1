@@ -1,6 +1,6 @@
-# Vehiculo lanzador promesa
+# Vehiculo lanzador "Promesa"
 
-El vehiculo lanzador promesa fue diseñado para su lanzamiento en la Laguna de Sayulita, Guadalajara. Por inconvenientes en el sistema de recuperación, se logro sin exito su lanzamiento.
+El vehiculo lanzador Promesa fue diseñado para su lanzamiento en la Laguna de Sayulita, Guadalajara. Por inconvenientes en el sistema de recuperación, se logro sin exito su lanzamiento.
 Se enlistan algunas caracteristicas de los subsistemas con las que cuenta el vehiculo lanzador.
 
 # Objetivos
